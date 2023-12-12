@@ -1,6 +1,6 @@
 # CaKaA Talk
 
-![로고](./images/로고.png)
+![로고](https://raw.githubusercontent.com/cakaatalk/Wiki/main/images/로고.png)
 
 ## 기능
 
