@@ -52,6 +52,26 @@
     </tr>
 </table>
 
+## 소스 코드
+
+### 백엔드
+
+- main-server
+  - url : https://github.com/cakaatalk/main-server
+  - crud를 위한 api, socket 통신 등 채팅 앱과 관련된 모든 로직을 처리하는 모놀리식 서버
+- image-storage-server
+  - url : https://github.com/cakaatalk/image-storage-server
+  - 프로필이미지 저장을 위한 storage 서버
+
+### 프론트엔드
+
+- main-front
+  - url : https://github.com/cakaatalk/main-front
+  - 회원가입, 로그인, 친구추가, 채팅 등 모든 페이지가 있는 메인 프론트
+- profile-made-front
+  - url : https://github.com/cakaatalk/profile-made-front
+  - 프로필만들기를 위한 정적인 프론트
+
 ## 러다이트 운동
 
 ![](./images/러다이트.png)
